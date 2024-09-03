@@ -9,4 +9,5 @@
 
 <hr/>
 
-<img src="https://myreadme.vercel.app/api/embed/peetzweg?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=peetzweg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peetzweg&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
