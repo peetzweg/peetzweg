@@ -6,8 +6,3 @@
 - Inspect EVM Contracts - https://www.peet.sh/notar
 - Precompiled EVM ABIs - https://www.peet.sh/abimate 
 - Wood Working - https://www.peet.sh/hardware
-
-<hr/>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=peetzweg&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="peetzweg's GitHub Stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peetzweg&layout=compact&theme=graywhite&hide_border=true" /> |
-| ------------- | ------------- |
