@@ -9,6 +9,7 @@ for any website
 - 📅 [papr](https://github.com/peetzweg/papr) - cli to generate high res print ready calendar PDFs
 - 🗳️ [trmnl-cli](https://github.com/peetzweg/openclaw-trmnl) - update your TRMNL device from the CLI, ideal for openclaw 🦞!
 - 🎟️ [acli clawdhub skill](https://clawhub.ai/peetzweg/atlassian-cli) - Jira CLI skill for openclaw on clawdhub
+- 🎞️ [frame](https://frame.peet.sh/) - web app to extract full res frame from given video
 - 📖 [epub Speedreader](https://x.com/peetzweg/status/1812915027881697650) - Web Speedreader for local epubs
 - 🔎 [Web3 VSCode Extension](https://www.peet.sh/web3-vscode-extension/) - GitLens for EVM Contracts for your IDE
 - 📝 [notar](https://www.peet.sh/notar) - interactive cli to inspect and interact with EVM Contracts
