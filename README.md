@@ -7,6 +7,7 @@
 - ☀️ [sunshine](https://github.com/peetzweg/sunshine) - browser extensions beautiful shadow overlays
 for any website
 - ・ [polkadot-cli](https://github.com/peetzweg/polkadot-cli) - cli access to any polkadot-sdk based chain
+- 🪨 [obsidian-plugin](https://github.com/peetzweg/obsidian-plugin) -  my personal productivy obsidian plugin
 - 📅 [papr](https://github.com/peetzweg/papr) - cli to generate high res print ready calendar PDFs
 - 🗳️ [trmnl-cli](https://github.com/peetzweg/openclaw-trmnl) - update your TRMNL device from the CLI, ideal for openclaw 🦞!
 - 🎟️ [acli clawdhub skill](https://clawhub.ai/peetzweg/atlassian-cli) - Jira CLI skill for openclaw on clawdhub
