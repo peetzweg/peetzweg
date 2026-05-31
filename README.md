@@ -2,6 +2,7 @@
 
 [Personal](https://www.peet.sh/) | [Twitter](https://twitter.com/peetzweg)
 
+- 📘 [matcrawl](https://github.com/peetzweg/matcrawl) - Matrix archive CLI based on [crawlkit](https://github.com/openclaw/crawlkit)
 - 📘 [sigcrawl](https://github.com/peetzweg/sigcrawl) - Signal Desktop archive CLI based on [crawlkit](https://github.com/openclaw/crawlkit)
 - 🎞️ [status-saver](https://github.com/peetzweg/status-saver) - archiver daemon for WhatsApp Status posts
 - ☀️ [sunshine](https://github.com/peetzweg/sunshine) - browser extensions beautiful shadow overlays
