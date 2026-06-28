@@ -2,6 +2,7 @@
 
 [Personal](https://www.peet.sh/) | [Twitter](https://twitter.com/peetzweg)
 
+- 👑 [commit-history.com](https://commit-history.com/) - GitHub contributions insights and leaderboard
 - 🔛 [opensidecar](https://github.com/peetzweg/opensidecar) - Apple Sidecar but without the need to be signed in into the same Apple ID
 - 🎨 [peetzweg/ui](https://peetzweg.github.io/ui/) - My own shadcn ui registry for components I built and want to reuse
 - 📘 [matcrawl](https://github.com/peetzweg/matcrawl) - Matrix archive CLI based on [crawlkit](https://github.com/openclaw/crawlkit)
