@@ -1,12 +1,11 @@
-  <div align="center">
-<a href="https://commit-history.com/peetzweg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/peetzweg?theme=dark" />
-    <img alt="peetzweg's commit history" src="https://commit-history.com/embed/peetzweg" />
-  </picture>
-</a>
-  </div>
-
+<div align="center">
+  <a href="https://commit-history.com/peetzweg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/peetzweg?theme=dark" />
+      <img alt="peetzweg's commit history" src="https://commit-history.com/embed/peetzweg" />
+    </picture>
+  </a>
+</div>
 
 ### Hi, 👋
 
