@@ -1,3 +1,11 @@
+<a href="https://commit-history.com/peetzweg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/peetzweg?theme=dark" />
+    <img alt="peetzweg's commit history" src="https://commit-history.com/embed/peetzweg" />
+  </picture>
+</a>
+
+
 ### Hi, 👋
 
 [Personal](https://www.peet.sh/) | [Twitter](https://twitter.com/peetzweg)
@@ -26,3 +34,5 @@ for any website
 - 🗺️ [ParcelExplorer](https://github.com/peetzweg/ParcelExplorer) - Google Maps for Decentraland
 - 🌐 [Globe](https://github.com/peetzweg/Globe) - Ethereum Wallet Inspector iOS App
 - 🪚 [Hardware](https://www.peet.sh/hardware) - DIY crafts
+
+
