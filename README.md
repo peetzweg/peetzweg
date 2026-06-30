@@ -16,6 +16,7 @@
 - 🎨 [peetzweg/ui](https://peetzweg.github.io/ui/) - My own shadcn ui registry for components I built and want to reuse
 - 📘 [matcrawl](https://github.com/peetzweg/matcrawl) - Matrix archive CLI based on [crawlkit](https://github.com/openclaw/crawlkit)
 - 📘 [sigcrawl](https://github.com/peetzweg/sigcrawl) - Signal Desktop archive CLI based on [crawlkit](https://github.com/openclaw/crawlkit)
+- 🦞 [openclaw](https://github.com/peetzweg/openclaw) - personal AI assistant infrastructure for local tools, automations, and agent workflows
 - 🎞️ [status-saver](https://github.com/peetzweg/status-saver) - archiver daemon for WhatsApp Status posts
 - ☀️ [sunshine](https://github.com/peetzweg/sunshine) - browser extensions beautiful shadow overlays
 for any website
@@ -35,5 +36,4 @@ for any website
 - 🗺️ [ParcelExplorer](https://github.com/peetzweg/ParcelExplorer) - Google Maps for Decentraland
 - 🌐 [Globe](https://github.com/peetzweg/Globe) - Ethereum Wallet Inspector iOS App
 - 🪚 [Hardware](https://www.peet.sh/hardware) - DIY crafts
-
 
