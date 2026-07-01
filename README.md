@@ -11,6 +11,7 @@
 
 [Personal](https://www.peet.sh/) | [Twitter](https://twitter.com/peetzweg)
 
+- 🐟 [siikafish](https://github.com/peetzweg/siikafish) - Ask the siikafish a question to get an answer, `npx siikafish`
 - 👑 [commit-history.com](https://commit-history.com/) - GitHub contributions insights and leaderboard
 - 🔛 [OpenDisplay](https://github.com/peetzweg/opendisplay) - Apple Sidecar but without the need to be signed in into the same Apple ID
 - 🎨 [peetzweg/ui](https://peetzweg.github.io/ui/) - My own shadcn ui registry for components I built and want to reuse
