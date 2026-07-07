@@ -9,7 +9,7 @@
 
 ### Hi, 👋
 
-[Personal](https://www.peet.sh/) | [Twitter](https://twitter.com/peetzweg)
+[Personal](https://www.peetzweg.com/) | [Twitter](https://twitter.com/peetzweg)
 
 - 🐟 [siikafish](https://github.com/peetzweg/siikafish) - Ask the siikafish a question to get an answer, `npx siikafish`
 - 👑 [commit-history.com](https://commit-history.com/) - GitHub contributions insights and leaderboard
