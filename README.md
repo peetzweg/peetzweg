@@ -11,6 +11,7 @@
 
 [Personal](https://www.peetzweg.com/) | [Twitter](https://twitter.com/peetzweg)
 
+- 🟰 [calcfile](https://github.com/peetzweg/calcfile) - An open, local-first plain-text format and editor for calculation documents.
 - 🐟 [siikafish](https://github.com/peetzweg/siikafish) - Ask the siikafish a question to get an answer, `npx siikafish`
 - 👑 [commit-history.com](https://commit-history.com/) - GitHub contributions insights and leaderboard
 - 🔛 [OpenDisplay](https://github.com/peetzweg/opendisplay) - Apple Sidecar but without the need to be signed in into the same Apple ID
