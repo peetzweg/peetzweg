@@ -11,6 +11,7 @@
 
 [Personal](https://www.peetzweg.com/) | [Twitter](https://twitter.com/peetzweg)
 
+- 🗣️ [speak](https://github.com/peetzweg/speak) - `say`, but with the best open text-to-speech model, running on your own machine. For people and agents
 - 🔳 [QR Code Pocket](https://peetzweg.github.io/qr-code-pocket/) - Offline PWA that keeps every QR code in one place: tickets, boarding passes, loyalty cards, Wi-Fi
 - 🚴 [Otomo](https://peetzweg.github.io/otomo/) - Companion app for Rad Race Tour de Friends Japan: rain radar along every stage, the climbs and where you are
 - 🟰 [calcfile](https://github.com/peetzweg/calcfile) - An open, local-first plain-text format and editor for calculation documents.
