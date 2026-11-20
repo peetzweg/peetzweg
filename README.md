@@ -11,6 +11,8 @@
 
 [Personal](https://www.peetzweg.com/) | [Twitter](https://twitter.com/peetzweg)
 
+- 🔳 [QR Code Pocket](https://peetzweg.github.io/qr-code-pocket/) - Offline PWA that keeps every QR code in one place: tickets, boarding passes, loyalty cards, Wi-Fi
+- 🚴 [Otomo](https://peetzweg.github.io/otomo/) - Companion app for Rad Race Tour de Friends Japan: rain radar along every stage, the climbs and where you are
 - 🟰 [calcfile](https://github.com/peetzweg/calcfile) - An open, local-first plain-text format and editor for calculation documents.
 - 🔊 [sonics](https://github.com/peetzweg/sonics) - Tiny, dependency-free UI sound effects for the web.
 - 🐟 [siikafish](https://github.com/peetzweg/siikafish) - Ask the siikafish a question to get an answer, `npx siikafish`
